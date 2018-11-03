@@ -1,6 +1,7 @@
 body 
 {
     background-color:   #431672;
+    color: #ffe521;
 }
 #wrapper
 {
@@ -22,7 +23,6 @@ nav ul li, footer ul li
 a 
 {
     text-decoration: none;
-    color: #ffe521;
 }
 a:hover 
 {
@@ -37,7 +37,6 @@ p
 {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #ffe521;
 }
 footer 
 {
